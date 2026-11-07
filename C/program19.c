@@ -25,7 +25,7 @@ int main()
 
     scanf("%d", &ivalue);
 
-    bRet = CheckEven(ivalue);
+    bRet = CheckEven(ivalue)
 
     if(bRet == true)
     {
