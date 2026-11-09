@@ -10,7 +10,7 @@ int main()
 
     scanf("%d", &ivalue);
 
-    if((ivalue % 2) == 0)
+    if((ivalue% 2) == 0)
     {
         printf("It is Even Number\n");
     }
